@@ -1,4 +1,4 @@
-# AWS USER GROUP PL ROADHSHOW - SZCZECIN! 
+# AWS USER GROUP PL ROADSHOW - SZCZECIN! 
 ![](https://secure.meetupstatic.com/photos/event/8/d/4/0/highres_484836160.jpeg)
 ## ALL DAY ABOUT AWS
 
